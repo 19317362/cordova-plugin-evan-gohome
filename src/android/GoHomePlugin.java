@@ -59,6 +59,6 @@ public class GoHomePlugin extends CordovaPlugin {
     }
 
     private void logError(String description) {
-        Log.e(EvanPlugin.class.getName(), description);
+        Log.e(GoHomePlugin.class.getName(), description);
     }
 }
